@@ -1,0 +1,1 @@
+# sd_plugin_manager
